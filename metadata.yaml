@@ -1,11 +1,16 @@
 _repo: El-conde-Lucanor_65738
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65738-h/images/cover.jpg
 creator:
   author:
     agent_name: Manuel, Don Juan
     gutenberg_agent_id: '53482'
     url: http://www.gutenberg.org/2009/agents/53482
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65738#El-conde-Lucanor
 gutenberg_issued: '2021-07-01'
 gutenberg_type: Text
 identifiers:
